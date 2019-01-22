@@ -39,7 +39,7 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
-		</dependency>1111111111111111111啊啊啊啊啊啊呜呜呜呜111111112222
+		</dependency>1111111111111111111啊啊啊啊啊啊呜呜呜呜1111111122223333
 
 	</dependencies>
 </project>
